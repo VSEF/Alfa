@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4850b9e3-f815-40fc-856c-267ff828d3cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKZH5qrDw8pmpsFuVYXQ8qCGSb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Drivers" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/running" />
+      <recent name="$PROJECT_DIR$/src/test/properties" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="running" />
+      <recent name="driverInstance" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: MortgagePage">
+    <configuration name="Feature: MortgagePage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/MortgagePage.feature" />
+      <option name="GLUE" value="running" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Alfa" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: MortgagePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Filling Mortgage Application form without entering Phone number" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/MortgagePage.feature" />
+      <option name="GLUE" value="running" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Alfa" />
+      <option name="NAME_FILTER" value="^Filling Mortgage Application form without entering Phone number$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Filling Mortgage Application form without entering Phone number$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Filling Mortgage Application form without entering Phone number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User can move to filling application by clicking on button 'Заполнить заявку'" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/MortgagePage.feature" />
+      <option name="GLUE" value="running" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Alfa" />
+      <option name="NAME_FILTER" value="^User can move to filling application by clicking on button \'Заполнить заявку\'$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User can move to filling application by clicking on button \'Заполнить заявку\'$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User can move to filling application by clicking on button 'Заполнить заявку'" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User can read personal processing rules" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/MortgagePage.feature" />
+      <option name="GLUE" value="running" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Alfa" />
+      <option name="NAME_FILTER" value="^User can read personal processing rules$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User can read personal processing rules$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User can read personal processing rules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: User can't submit Mortgage Application form without entering Phone number" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/features/MortgagePage.feature" />
+      <option name="GLUE" value="running" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Alfa" />
+      <option name="NAME_FILTER" value="^User can\'t submit Mortgage Application form without entering Phone number$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User can\'t submit Mortgage Application form without entering Phone number$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User can't submit Mortgage Application form without entering Phone number" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: MortgagePage" />
+        <item itemvalue="Cucumber java.Scenario: User can't submit Mortgage Application form without entering Phone number" />
+        <item itemvalue="Cucumber java.Scenario: User can move to filling application by clicking on button 'Заполнить заявку'" />
+        <item itemvalue="Cucumber java.Scenario: User can read personal processing rules" />
+        <item itemvalue="Cucumber java.Scenario: Filling Mortgage Application form without entering Phone number" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4850b9e3-f815-40fc-856c-267ff828d3cb" name="Default Changelist" comment="" />
+      <created>1582693155355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582693155355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1582784192689">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1582731349481" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1582784192689" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1582777638792" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1582784192688">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1582731349479" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1582784192688" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1582777638790" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1582784192687">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1582731349478" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1582784192687" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1582777638789" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1582784192689">
+      <screen x="0" y="23" width="1792" height="1030" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1582731349480" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1582784192689" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1582777638791" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1582703516246">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1582703516246" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1582703516243">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1582703516243" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1582703516242">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1582703516242" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1582703516245">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1582703516245" />
+    <state x="653" y="493" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1582694528465">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="653" y="493" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582694528465" />
+  </component>
+</project>
